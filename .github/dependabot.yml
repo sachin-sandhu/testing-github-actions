@@ -13,7 +13,7 @@ updates:
       day: "sunday"
       time: "16:00"
     cooldown:
-      default-days: 90
+      default-days: 89
     ignore:
       - dependency-name: "github/internal-actions"
     labels:
